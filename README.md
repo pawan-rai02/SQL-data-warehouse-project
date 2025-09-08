@@ -23,6 +23,6 @@ Each script follows **best practices** for readability, scalability, and perform
 
 ---
 
-## 📂 Repository Structure
+
 
 
